@@ -1,0 +1,23 @@
+CODECHECK WerkstattPilot - 10.06.2026
+Compile: erfolgreich
+
+Persistence-Test:
+Alle Persistence-Tests erfolgreich.
+
+Business-Test:
+Alle Business-Tests erfolgreich.
+
+Endbenutzertest:
+WerkstattPilot - Endbenutzertest Aufgabe 5
+Erfasste Auftraege:
+Auftrag 1001 - Status: OFFEN
+Auftrag 1002 - Status: IN_ARBEIT
+Auftrag 1003 - Status: WARTET_AUF_TEILE
+
+Status von Auftrag 1001 wird auf FERTIG gesetzt.
+
+Auftraege nach Statusaenderung:
+Auftrag 1001 - Status: FERTIG
+Auftrag 1002 - Status: IN_ARBEIT
+Auftrag 1003 - Status: WARTET_AUF_TEILE
+Javadoc: erfolgreich
