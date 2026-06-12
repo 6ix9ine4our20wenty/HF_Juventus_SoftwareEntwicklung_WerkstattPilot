@@ -1,5 +1,5 @@
 WerkstattPilot - finale Abgabe Arbeitsgruppe 3
-Stand: 10.06.2026
+Stand: 12.06.2026
 Autoren: Livio Luna, Dominic Lolos
 Klasse: TS TSI 2502 A
 
